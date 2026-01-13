@@ -1,0 +1,10 @@
+### Step 6 — Evaluate two tools (criteria table)
+
+| Criterion | Tool A: diagrams.net | Tool B: PlantUML Web |
+| :--- | :--- | :--- |
+| **Learning curve** | Very easy, intuitive drag-and-drop interface. | Needs learning UML syntax, but fast once mastered. |
+| **Version control friendliness** | .drawio files can be diff'd as XML; PNG for visual review. | .puml is text-based and very diff-friendly; PNG for review. |
+| **Validation support** | Manual visual checks only. | Syntax validation and basic linting via the editor. |
+| **Collaboration** | Works well with Google Drive/OneDrive. | Text-based is PR-friendly; code reviews are much easier. |
+| **Export formats** | PNG, SVG, PDF. | PNG (plus can regenerate from source code). |
+| **Cost** | Free. | Free. |
