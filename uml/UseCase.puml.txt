@@ -1,0 +1,6 @@
+@startuml
+left to right direction
+actor Student
+usecase "Register Course" as UC1
+Student --> UC1
+@enduml

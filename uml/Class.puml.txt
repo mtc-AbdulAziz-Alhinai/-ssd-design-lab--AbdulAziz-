@@ -1,0 +1,12 @@
+@startuml
+-class "Student" {
+}
+
+
+#class "Course" {
+}
+
+~class "association" {
+}
+
+@enduml
