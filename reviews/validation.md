@@ -1,5 +1,5 @@
-Syntax check 
-
+Syntax check:
+• PlantUML: ensure no syntax errors (editor shows errors live).
 • diagrams.net: ensure arrows/head types match the relationship.
 Naming consistency:
 • The class names in Class diagram appear in use-case narrative (e.g., “Student registers
